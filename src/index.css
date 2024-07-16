@@ -95,7 +95,7 @@ html, body {
 .add-session-section {
   justify-content: center;
   margin-top: 30px;
-  flex: 1;  /* flex: 1 for left side container and flex:4 for right-side container */
+  flex: 1;  /* flex: 1 for left side container and flex:4 for right-side .container */
 }
 
 .new-meeting-button, .home-button, .update-button, .create-session-button{
